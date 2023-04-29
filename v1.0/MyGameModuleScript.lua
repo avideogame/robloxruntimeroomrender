@@ -115,7 +115,7 @@ aModule.MyConfig["MyRemoteEvent"] = {
 			aName = "MyRemoteEventClientServerSetMenuMore",
 		},
 		MySetMenuLocation = {
-			aName = "MyRemoteEventServerClientSetMenuLocation",
+			aName = "MyRemoteEventClientServerSetMenuLocation",
 		},
 	},
 }
